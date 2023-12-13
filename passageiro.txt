@@ -1,0 +1,2 @@
+Passageiro1,0,0
+Passageiro2,1,1

@@ -1,0 +1,3 @@
+Pertinho,Apucarana,Londrina, 10, 50
+Meio Termo,Apucarana,Ponta Grossa, 20, 100
+Longinho,Apucarana,Curitiba, 30, 200

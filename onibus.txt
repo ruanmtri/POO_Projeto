@@ -1,0 +1,6 @@
+Busauumm,0,0
+Quebradeira,1,0
+Filezinn,2,0
+Furaduuu,0,1
+Turismooo,1,1
+Executivo,2,1
